@@ -1,0 +1,150 @@
+C:\Users\admin\source\BooksManagementWebsite\Books\BooksWeb\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\admin\source\BooksManagementWebsite\Books\BooksWeb\bin\Debug\net7.0\appsettings.json
+C:\Users\admin\source\BooksManagementWebsite\Books\BooksWeb\bin\Debug\net7.0\BooksWeb.staticwebassets.runtime.json
+C:\Users\admin\source\BooksManagementWebsite\Books\BooksWeb\bin\Debug\net7.0\BooksWeb.exe
+C:\Users\admin\source\BooksManagementWebsite\Books\BooksWeb\bin\Debug\net7.0\BooksWeb.deps.json
+C:\Users\admin\source\BooksManagementWebsite\Books\BooksWeb\bin\Debug\net7.0\BooksWeb.runtimeconfig.json
+C:\Users\admin\source\BooksManagementWebsite\Books\BooksWeb\bin\Debug\net7.0\BooksWeb.dll
+C:\Users\admin\source\BooksManagementWebsite\Books\BooksWeb\bin\Debug\net7.0\BooksWeb.pdb
+C:\Users\admin\source\BooksManagementWebsite\Books\BooksWeb\obj\Debug\net7.0\BooksWeb.csproj.AssemblyReference.cache
+C:\Users\admin\source\BooksManagementWebsite\Books\BooksWeb\obj\Debug\net7.0\BooksWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\BooksManagementWebsite\Books\BooksWeb\obj\Debug\net7.0\BooksWeb.AssemblyInfoInputs.cache
+C:\Users\admin\source\BooksManagementWebsite\Books\BooksWeb\obj\Debug\net7.0\BooksWeb.AssemblyInfo.cs
+C:\Users\admin\source\BooksManagementWebsite\Books\BooksWeb\obj\Debug\net7.0\BooksWeb.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\BooksManagementWebsite\Books\BooksWeb\obj\Debug\net7.0\BooksWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admin\source\BooksManagementWebsite\Books\BooksWeb\obj\Debug\net7.0\BooksWeb.RazorAssemblyInfo.cache
+C:\Users\admin\source\BooksManagementWebsite\Books\BooksWeb\obj\Debug\net7.0\BooksWeb.RazorAssemblyInfo.cs
+C:\Users\admin\source\BooksManagementWebsite\Books\BooksWeb\obj\Debug\net7.0\staticwebassets\msbuild.BooksWeb.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\admin\source\BooksManagementWebsite\Books\BooksWeb\obj\Debug\net7.0\staticwebassets\msbuild.build.BooksWeb.props
+C:\Users\admin\source\BooksManagementWebsite\Books\BooksWeb\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BooksWeb.props
+C:\Users\admin\source\BooksManagementWebsite\Books\BooksWeb\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BooksWeb.props
+C:\Users\admin\source\BooksManagementWebsite\Books\BooksWeb\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\admin\source\BooksManagementWebsite\Books\BooksWeb\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\admin\source\BooksManagementWebsite\Books\BooksWeb\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\admin\source\BooksManagementWebsite\Books\BooksWeb\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\admin\source\BooksManagementWebsite\Books\BooksWeb\obj\Debug\net7.0\scopedcss\bundle\BooksWeb.styles.css
+C:\Users\admin\source\BooksManagementWebsite\Books\BooksWeb\obj\Debug\net7.0\scopedcss\projectbundle\BooksWeb.bundle.scp.css
+C:\Users\admin\source\BooksManagementWebsite\Books\BooksWeb\obj\Debug\net7.0\BooksWeb.dll
+C:\Users\admin\source\BooksManagementWebsite\Books\BooksWeb\obj\Debug\net7.0\refint\BooksWeb.dll
+C:\Users\admin\source\BooksManagementWebsite\Books\BooksWeb\obj\Debug\net7.0\BooksWeb.pdb
+C:\Users\admin\source\BooksManagementWebsite\Books\BooksWeb\obj\Debug\net7.0\BooksWeb.genruntimeconfig.cache
+C:\Users\admin\source\BooksManagementWebsite\Books\BooksWeb\obj\Debug\net7.0\ref\BooksWeb.dll
+C:\Users\admin\source\BooksManagementWebsite\Books\BooksWeb\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\admin\source\BooksManagementWebsite\Books\BooksWeb\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\admin\source\BooksManagementWebsite\Books\BooksWeb\bin\Debug\net7.0\Humanizer.dll
+C:\Users\admin\source\BooksManagementWebsite\Books\BooksWeb\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\admin\source\BooksManagementWebsite\Books\BooksWeb\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\admin\source\BooksManagementWebsite\Books\BooksWeb\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\admin\source\BooksManagementWebsite\Books\BooksWeb\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\admin\source\BooksManagementWebsite\Books\BooksWeb\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\admin\source\BooksManagementWebsite\Books\BooksWeb\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\admin\source\BooksManagementWebsite\Books\BooksWeb\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\admin\source\BooksManagementWebsite\Books\BooksWeb\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\admin\source\BooksManagementWebsite\Books\BooksWeb\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\admin\source\BooksManagementWebsite\Books\BooksWeb\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\admin\source\BooksManagementWebsite\Books\BooksWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\admin\source\BooksManagementWebsite\Books\BooksWeb\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\admin\source\BooksManagementWebsite\Books\BooksWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\admin\source\BooksManagementWebsite\Books\BooksWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\admin\source\BooksManagementWebsite\Books\BooksWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\admin\source\BooksManagementWebsite\Books\BooksWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\admin\source\BooksManagementWebsite\Books\BooksWeb\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\admin\source\BooksManagementWebsite\Books\BooksWeb\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\admin\source\BooksManagementWebsite\Books\BooksWeb\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\admin\source\BooksManagementWebsite\Books\BooksWeb\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\admin\source\BooksManagementWebsite\Books\BooksWeb\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\admin\source\BooksManagementWebsite\Books\BooksWeb\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\admin\source\BooksManagementWebsite\Books\BooksWeb\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\admin\source\BooksManagementWebsite\Books\BooksWeb\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\admin\source\BooksManagementWebsite\Books\BooksWeb\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\admin\source\BooksManagementWebsite\Books\BooksWeb\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\admin\source\BooksManagementWebsite\Books\BooksWeb\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\admin\source\BooksManagementWebsite\Books\BooksWeb\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\admin\source\BooksManagementWebsite\Books\BooksWeb\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\admin\source\BooksManagementWebsite\Books\BooksWeb\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\admin\source\BooksManagementWebsite\Books\BooksWeb\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\source\BooksManagementWebsite\Books\BooksWeb\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\source\BooksManagementWebsite\Books\BooksWeb\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\source\BooksManagementWebsite\Books\BooksWeb\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\source\BooksManagementWebsite\Books\BooksWeb\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\admin\source\BooksManagementWebsite\Books\BooksWeb\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\admin\source\BooksManagementWebsite\Books\BooksWeb\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\admin\source\BooksManagementWebsite\Books\BooksWeb\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\admin\source\BooksManagementWebsite\Books\BooksWeb\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\admin\source\BooksManagementWebsite\Books\BooksWeb\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\admin\source\BooksManagementWebsite\Books\BooksWeb\obj\Debug\net7.0\BooksWeb.csproj.CopyComplete
+D:\BooksManagementWebsite STAGE1\Books\BooksWeb\bin\Debug\net7.0\appsettings.Development.json
+D:\BooksManagementWebsite STAGE1\Books\BooksWeb\bin\Debug\net7.0\appsettings.json
+D:\BooksManagementWebsite STAGE1\Books\BooksWeb\bin\Debug\net7.0\BooksWeb.staticwebassets.runtime.json
+D:\BooksManagementWebsite STAGE1\Books\BooksWeb\bin\Debug\net7.0\BooksWeb.exe
+D:\BooksManagementWebsite STAGE1\Books\BooksWeb\bin\Debug\net7.0\BooksWeb.deps.json
+D:\BooksManagementWebsite STAGE1\Books\BooksWeb\bin\Debug\net7.0\BooksWeb.runtimeconfig.json
+D:\BooksManagementWebsite STAGE1\Books\BooksWeb\bin\Debug\net7.0\BooksWeb.dll
+D:\BooksManagementWebsite STAGE1\Books\BooksWeb\bin\Debug\net7.0\BooksWeb.pdb
+D:\BooksManagementWebsite STAGE1\Books\BooksWeb\bin\Debug\net7.0\Azure.Core.dll
+D:\BooksManagementWebsite STAGE1\Books\BooksWeb\bin\Debug\net7.0\Azure.Identity.dll
+D:\BooksManagementWebsite STAGE1\Books\BooksWeb\bin\Debug\net7.0\Humanizer.dll
+D:\BooksManagementWebsite STAGE1\Books\BooksWeb\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\BooksManagementWebsite STAGE1\Books\BooksWeb\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\BooksManagementWebsite STAGE1\Books\BooksWeb\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\BooksManagementWebsite STAGE1\Books\BooksWeb\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\BooksManagementWebsite STAGE1\Books\BooksWeb\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\BooksManagementWebsite STAGE1\Books\BooksWeb\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\BooksManagementWebsite STAGE1\Books\BooksWeb\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\BooksManagementWebsite STAGE1\Books\BooksWeb\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\BooksManagementWebsite STAGE1\Books\BooksWeb\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\BooksManagementWebsite STAGE1\Books\BooksWeb\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\BooksManagementWebsite STAGE1\Books\BooksWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\BooksManagementWebsite STAGE1\Books\BooksWeb\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\BooksManagementWebsite STAGE1\Books\BooksWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\BooksManagementWebsite STAGE1\Books\BooksWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\BooksManagementWebsite STAGE1\Books\BooksWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\BooksManagementWebsite STAGE1\Books\BooksWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\BooksManagementWebsite STAGE1\Books\BooksWeb\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\BooksManagementWebsite STAGE1\Books\BooksWeb\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\BooksManagementWebsite STAGE1\Books\BooksWeb\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\BooksManagementWebsite STAGE1\Books\BooksWeb\bin\Debug\net7.0\System.CodeDom.dll
+D:\BooksManagementWebsite STAGE1\Books\BooksWeb\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\BooksManagementWebsite STAGE1\Books\BooksWeb\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\BooksManagementWebsite STAGE1\Books\BooksWeb\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\BooksManagementWebsite STAGE1\Books\BooksWeb\bin\Debug\net7.0\System.Memory.Data.dll
+D:\BooksManagementWebsite STAGE1\Books\BooksWeb\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\BooksManagementWebsite STAGE1\Books\BooksWeb\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\BooksManagementWebsite STAGE1\Books\BooksWeb\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\BooksManagementWebsite STAGE1\Books\BooksWeb\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\BooksManagementWebsite STAGE1\Books\BooksWeb\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\BooksManagementWebsite STAGE1\Books\BooksWeb\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\BooksManagementWebsite STAGE1\Books\BooksWeb\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BooksManagementWebsite STAGE1\Books\BooksWeb\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BooksManagementWebsite STAGE1\Books\BooksWeb\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BooksManagementWebsite STAGE1\Books\BooksWeb\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BooksManagementWebsite STAGE1\Books\BooksWeb\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\BooksManagementWebsite STAGE1\Books\BooksWeb\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\BooksManagementWebsite STAGE1\Books\BooksWeb\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\BooksManagementWebsite STAGE1\Books\BooksWeb\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\BooksManagementWebsite STAGE1\Books\BooksWeb\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\BooksManagementWebsite STAGE1\Books\BooksWeb\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\BooksManagementWebsite STAGE1\Books\BooksWeb\obj\Debug\net7.0\BooksWeb.csproj.AssemblyReference.cache
+D:\BooksManagementWebsite STAGE1\Books\BooksWeb\obj\Debug\net7.0\BooksWeb.GeneratedMSBuildEditorConfig.editorconfig
+D:\BooksManagementWebsite STAGE1\Books\BooksWeb\obj\Debug\net7.0\BooksWeb.AssemblyInfoInputs.cache
+D:\BooksManagementWebsite STAGE1\Books\BooksWeb\obj\Debug\net7.0\BooksWeb.AssemblyInfo.cs
+D:\BooksManagementWebsite STAGE1\Books\BooksWeb\obj\Debug\net7.0\BooksWeb.csproj.CoreCompileInputs.cache
+D:\BooksManagementWebsite STAGE1\Books\BooksWeb\obj\Debug\net7.0\BooksWeb.MvcApplicationPartsAssemblyInfo.cache
+D:\BooksManagementWebsite STAGE1\Books\BooksWeb\obj\Debug\net7.0\BooksWeb.RazorAssemblyInfo.cache
+D:\BooksManagementWebsite STAGE1\Books\BooksWeb\obj\Debug\net7.0\BooksWeb.RazorAssemblyInfo.cs
+D:\BooksManagementWebsite STAGE1\Books\BooksWeb\obj\Debug\net7.0\staticwebassets\msbuild.BooksWeb.Microsoft.AspNetCore.StaticWebAssets.props
+D:\BooksManagementWebsite STAGE1\Books\BooksWeb\obj\Debug\net7.0\staticwebassets\msbuild.build.BooksWeb.props
+D:\BooksManagementWebsite STAGE1\Books\BooksWeb\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BooksWeb.props
+D:\BooksManagementWebsite STAGE1\Books\BooksWeb\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BooksWeb.props
+D:\BooksManagementWebsite STAGE1\Books\BooksWeb\obj\Debug\net7.0\staticwebassets.pack.json
+D:\BooksManagementWebsite STAGE1\Books\BooksWeb\obj\Debug\net7.0\staticwebassets.build.json
+D:\BooksManagementWebsite STAGE1\Books\BooksWeb\obj\Debug\net7.0\staticwebassets.development.json
+D:\BooksManagementWebsite STAGE1\Books\BooksWeb\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\BooksManagementWebsite STAGE1\Books\BooksWeb\obj\Debug\net7.0\scopedcss\bundle\BooksWeb.styles.css
+D:\BooksManagementWebsite STAGE1\Books\BooksWeb\obj\Debug\net7.0\scopedcss\projectbundle\BooksWeb.bundle.scp.css
+D:\BooksManagementWebsite STAGE1\Books\BooksWeb\obj\Debug\net7.0\BooksWeb.csproj.CopyComplete
+D:\BooksManagementWebsite STAGE1\Books\BooksWeb\obj\Debug\net7.0\BooksWeb.dll
+D:\BooksManagementWebsite STAGE1\Books\BooksWeb\obj\Debug\net7.0\refint\BooksWeb.dll
+D:\BooksManagementWebsite STAGE1\Books\BooksWeb\obj\Debug\net7.0\BooksWeb.pdb
+D:\BooksManagementWebsite STAGE1\Books\BooksWeb\obj\Debug\net7.0\BooksWeb.genruntimeconfig.cache
+D:\BooksManagementWebsite STAGE1\Books\BooksWeb\obj\Debug\net7.0\ref\BooksWeb.dll

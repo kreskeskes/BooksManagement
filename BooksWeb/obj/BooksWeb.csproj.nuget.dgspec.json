@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\source\\repos\\BooksWeb\\BooksManagementWebsite\\Books\\BooksWeb\\BooksWeb.csproj": {}
+    "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsite STAGE2\\Books\\BooksWeb\\BooksWeb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\source\\repos\\BooksWeb\\BooksManagementWebsite\\Books\\BooksWeb\\BooksWeb.csproj": {
+    "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsite STAGE2\\Books\\BooksWeb\\BooksWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\source\\repos\\BooksWeb\\BooksManagementWebsite\\Books\\BooksWeb\\BooksWeb.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsite STAGE2\\Books\\BooksWeb\\BooksWeb.csproj",
         "projectName": "BooksWeb",
-        "projectPath": "C:\\Users\\admin\\source\\repos\\BooksWeb\\BooksManagementWebsite\\Books\\BooksWeb\\BooksWeb.csproj",
+        "projectPath": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsite STAGE2\\Books\\BooksWeb\\BooksWeb.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\source\\repos\\BooksWeb\\BooksManagementWebsite\\Books\\BooksWeb\\obj\\",
+        "outputPath": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsite STAGE2\\Books\\BooksWeb\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -57,6 +57,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.4, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[7.0.5, )"
             }
           },
           "imports": [

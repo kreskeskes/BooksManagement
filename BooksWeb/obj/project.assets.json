@@ -3661,6 +3661,43 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
+      },
+      "Books.DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Books.Models": "1.0.0",
+          "Books.Utilities": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "7.0.4",
+          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.4",
+          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "7.0.5"
+        },
+        "compile": {
+          "bin/placeholder/Books.DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Books.DataAccess.dll": {}
+        }
+      },
+      "Books.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Books.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Books.Models.dll": {}
+        }
+      },
+      "Books.Utilities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Books.Utilities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Books.Utilities.dll": {}
+        }
       }
     }
   },
@@ -10599,10 +10636,28 @@
         "system.xml.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xdocument.nuspec"
       ]
+    },
+    "Books.DataAccess/1.0.0": {
+      "type": "project",
+      "path": "../Books.DataAccess/Books.DataAccess.csproj",
+      "msbuildProject": "../Books.DataAccess/Books.DataAccess.csproj"
+    },
+    "Books.Models/1.0.0": {
+      "type": "project",
+      "path": "../Books.Models/Books.Models.csproj",
+      "msbuildProject": "../Books.Models/Books.Models.csproj"
+    },
+    "Books.Utilities/1.0.0": {
+      "type": "project",
+      "path": "../Books.Utilities/Books.Utilities.csproj",
+      "msbuildProject": "../Books.Utilities/Books.Utilities.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "Books.DataAccess >= 1.0.0",
+      "Books.Models >= 1.0.0",
+      "Books.Utilities >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 7.0.4",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.4",
       "Microsoft.EntityFrameworkCore.Tools >= 7.0.4",
@@ -10616,11 +10671,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsite STAGE2\\Books\\BooksWeb\\BooksWeb.csproj",
+      "projectUniqueName": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE3\\Books\\BooksWeb\\BooksWeb.csproj",
       "projectName": "BooksWeb",
-      "projectPath": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsite STAGE2\\Books\\BooksWeb\\BooksWeb.csproj",
+      "projectPath": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE3\\Books\\BooksWeb\\BooksWeb.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsite STAGE2\\Books\\BooksWeb\\obj\\",
+      "outputPath": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE3\\Books\\BooksWeb\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -10640,7 +10695,17 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE3\\Books\\Books.DataAccess\\Books.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE3\\Books\\Books.DataAccess\\Books.DataAccess.csproj"
+            },
+            "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE3\\Books\\Books.Models\\Books.Models.csproj": {
+              "projectPath": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE3\\Books\\Books.Models\\Books.Models.csproj"
+            },
+            "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE3\\Books\\Books.Utilities\\Books.Utilities.csproj": {
+              "projectPath": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE3\\Books\\Books.Utilities\\Books.Utilities.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

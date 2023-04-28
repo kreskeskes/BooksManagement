@@ -21,7 +21,7 @@ namespace Books.DataAccess.Repository
 		public T Get(System.Linq.Expressions.Expression<Func<T, bool>> filter)
 		{
 			IQueryable<T> query = dbSet;
-			query = query.Where(filter);
+			query = query.Where(filter); // assign the filtered sequence back to query
 			return query.FirstOrDefault();
 		}
 

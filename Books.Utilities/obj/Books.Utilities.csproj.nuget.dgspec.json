@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE3\\Books\\Books.Utilities\\Books.Utilities.csproj": {}
+    "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSRAGE4\\Books\\Books.Utilities\\Books.Utilities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE3\\Books\\Books.Utilities\\Books.Utilities.csproj": {
+    "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSRAGE4\\Books\\Books.Utilities\\Books.Utilities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE3\\Books\\Books.Utilities\\Books.Utilities.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSRAGE4\\Books\\Books.Utilities\\Books.Utilities.csproj",
         "projectName": "Books.Utilities",
-        "projectPath": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE3\\Books\\Books.Utilities\\Books.Utilities.csproj",
+        "projectPath": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSRAGE4\\Books\\Books.Utilities\\Books.Utilities.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE3\\Books\\Books.Utilities\\obj\\",
+        "outputPath": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSRAGE4\\Books\\Books.Utilities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

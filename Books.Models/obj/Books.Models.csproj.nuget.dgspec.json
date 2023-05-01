@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSRAGE4\\Books\\Books.Models\\Books.Models.csproj": {}
+    "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE5\\Books\\Books.Models\\Books.Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSRAGE4\\Books\\Books.Models\\Books.Models.csproj": {
+    "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE5\\Books\\Books.Models\\Books.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSRAGE4\\Books\\Books.Models\\Books.Models.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE5\\Books\\Books.Models\\Books.Models.csproj",
         "projectName": "Books.Models",
-        "projectPath": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSRAGE4\\Books\\Books.Models\\Books.Models.csproj",
+        "projectPath": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE5\\Books\\Books.Models\\Books.Models.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSRAGE4\\Books\\Books.Models\\obj\\",
+        "outputPath": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE5\\Books\\Books.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -43,6 +43,16 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNet.Mvc": {
+              "target": "Package",
+              "version": "[5.2.9, )"
+            },
+            "Microsoft.AspNetCore.Mvc.ViewFeatures": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

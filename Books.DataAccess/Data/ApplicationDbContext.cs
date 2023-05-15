@@ -20,23 +20,22 @@ namespace Books.DataAccess.Data
                 new Category { Id = 3, Name = "History", DisplayOrder = 3 }
                 );
             modelBuilder.Entity<Product>().HasData(
-                 new Product
-                 {
-                     Id = 1,
-                     Title = "To Kill a Mockingbird",
-                     Author = "Harper Lee",
-                     Description = "Praesent vitae sodales libero. Praesent molestie orci augue, vitae euismod velit sollicitudin ac. Praesent vestibulum facilisis nibh ut ultricies.\r\n\r\nNunc malesuada viverra ipsum sit amet tincidunt. ",
-                     ISBN = "9780446310789",
-                     ListPrice = 99,
-                     Price = 90,
-                     Price50 = 85,
-                     Price100 = 80,
-                     CategoryId = 1,
-                     ImageUrl = ""
+            new Product
+            {
+                Id = 1,
+                Title = "To Kill a Mockingbird",
+                Author = "Harper Lee",
+                Description = "Praesent vitae sodales libero. Praesent molestie orci augue, vitae euismod velit sollicitudin ac. Praesent vestibulum facilisis nibh ut ultricies.\r\n\r\nNunc malesuada viverra ipsum sit amet tincidunt. ",
+                ISBN = "9780446310789",
+                ListPrice = 99,
+                Price = 90,
+                Price50 = 85,
+                Price100 = 80,
+                CategoryId = 1,
+                ImageUrl = ""
 
 
-                 },
-
+            },
                 new Product
                 {
                     Id = 2,

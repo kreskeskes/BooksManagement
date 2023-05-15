@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1Kn6XFpBiK4ykGZPQ484sd7BJyIGIYlxjqX50MMiuH5R5geGunebHYRqUtqCEKiExTJcQDGqiy3oDSZkm0IaMg==",
+  "dgSpecHash": "OjjMia/l0hpNeSa7l7w3VOozYJD3ERPtyS5N1aHCjcfGnyWVSbpA5nW+9m29IUjUst/XhOgrHFqJwOtwrqySEg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE5\\Books\\Books.Models\\Books.Models.csproj",
+  "projectFilePath": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE6\\Books\\Books.Models\\Books.Models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnet.mvc\\5.2.9\\microsoft.aspnet.mvc.5.2.9.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnet.razor\\3.2.9\\microsoft.aspnet.razor.3.2.9.nupkg.sha512",

@@ -185,7 +185,7 @@ namespace Books.DataAccess.Migrations
                         new
                         {
                             Id = 6,
-                            Author = "Author: J.R.R. Tolkien",
+                            Author = "J.R.R. Tolkien",
                             CategoryId = 1,
                             Description = "Praesent vitae sodales libero. Praesent molestie orci augue, vitae euismod velit sollicitudin ac. Praesent vestibulum facilisis nibh ut ultricies.\r\n\r\nNunc malesuada viverra ipsum sit amet tincidunt. ",
                             ISBN = "FOT000000001",

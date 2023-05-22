@@ -181,20 +181,6 @@ namespace Books.DataAccess.Migrations
                             Price100 = 20.0,
                             Price50 = 25.0,
                             Title = "Pride and Prejudice"
-                        },
-                        new
-                        {
-                            Id = 6,
-                            Author = "J.R.R. Tolkien",
-                            CategoryId = 1,
-                            Description = "Praesent vitae sodales libero. Praesent molestie orci augue, vitae euismod velit sollicitudin ac. Praesent vestibulum facilisis nibh ut ultricies.\r\n\r\nNunc malesuada viverra ipsum sit amet tincidunt. ",
-                            ISBN = "FOT000000001",
-                            ImageUrl = "",
-                            ListPrice = 25.0,
-                            Price = 23.0,
-                            Price100 = 20.0,
-                            Price50 = 22.0,
-                            Title = "The Lord of the Rings"
                         });
                 });
 

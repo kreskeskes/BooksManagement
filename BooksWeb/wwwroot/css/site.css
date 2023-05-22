@@ -84,8 +84,10 @@ bg-success {
 
 
 .card {
-    border-color: #425F4B !important;
+    border-color: #94c1eb !important;
 }
+
+
 
 
 
@@ -539,6 +541,11 @@ a
 {
     text-decoration:none;
 }
+
+    a.dropdown-item:hover {
+        background-color: #3a5a78;
+        transition: 0.2s;
+    }
 /*toats notifications styles*/
 .toast-success {
     background-color: #51a351;

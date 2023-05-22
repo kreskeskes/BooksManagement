@@ -1,279 +1,299 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE6\\Books\\BooksWeb\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BooksWeb.bundle.scp.css",
+      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE7\\Books\\BooksWeb\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BooksWeb.bundle.scp.css",
       "PackagePath": "staticwebassets\\BooksWeb.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE6\\Books\\BooksWeb\\wwwroot\\0052c5e6-e033-4316-b3b8-1bd1e46292a4.jpg\\images\\product\\0052c5e6-e033-4316-b3b8-1bd1e46292a4.jpg",
-      "PackagePath": "staticwebassets\\0052c5e6-e033-4316-b3b8-1bd1e46292a4.jpg\\images\\product\\0052c5e6-e033-4316-b3b8-1bd1e46292a4.jpg"
-    },
-    {
-      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE6\\Books\\BooksWeb\\wwwroot\\07c2ffbe-0ca9-429a-959d-f287a72ac8b2.png\\images\\product\\07c2ffbe-0ca9-429a-959d-f287a72ac8b2.png",
-      "PackagePath": "staticwebassets\\07c2ffbe-0ca9-429a-959d-f287a72ac8b2.png\\images\\product\\07c2ffbe-0ca9-429a-959d-f287a72ac8b2.png"
-    },
-    {
-      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE6\\Books\\BooksWeb\\wwwroot\\2d640676-1965-4b39-a17b-fba05c29b267.jpg\\images\\product\\2d640676-1965-4b39-a17b-fba05c29b267.jpg",
-      "PackagePath": "staticwebassets\\2d640676-1965-4b39-a17b-fba05c29b267.jpg\\images\\product\\2d640676-1965-4b39-a17b-fba05c29b267.jpg"
-    },
-    {
-      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE6\\Books\\BooksWeb\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE7\\Books\\BooksWeb\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE6\\Books\\BooksWeb\\wwwroot\\d104194e-a61e-4c4a-b107-6a83e5a9e70f.jpg\\images\\product\\d104194e-a61e-4c4a-b107-6a83e5a9e70f.jpg",
-      "PackagePath": "staticwebassets\\d104194e-a61e-4c4a-b107-6a83e5a9e70f.jpg\\images\\product\\d104194e-a61e-4c4a-b107-6a83e5a9e70f.jpg"
-    },
-    {
-      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE6\\Books\\BooksWeb\\wwwroot\\f50b902c-b3b1-4d8a-9092-268beb8ce106.png\\images\\product\\f50b902c-b3b1-4d8a-9092-268beb8ce106.png",
-      "PackagePath": "staticwebassets\\f50b902c-b3b1-4d8a-9092-268beb8ce106.png\\images\\product\\f50b902c-b3b1-4d8a-9092-268beb8ce106.png"
-    },
-    {
-      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE6\\Books\\BooksWeb\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE7\\Books\\BooksWeb\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE6\\Books\\BooksWeb\\wwwroot\\fb77aacc-06dd-466c-b2ae-b8c32e84fd16.png\\images\\product\\fb77aacc-06dd-466c-b2ae-b8c32e84fd16.png",
-      "PackagePath": "staticwebassets\\fb77aacc-06dd-466c-b2ae-b8c32e84fd16.png\\images\\product\\fb77aacc-06dd-466c-b2ae-b8c32e84fd16.png"
+      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE7\\Books\\BooksWeb\\wwwroot\\images\\product\\20286fc1-ff0a-474c-8c49-387d17121f68.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\20286fc1-ff0a-474c-8c49-387d17121f68.jpg"
     },
     {
-      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE6\\Books\\BooksWeb\\wwwroot\\images\\product\\8fdb62de-cc99-4424-8003-2c5f73e3f645.png",
+      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE7\\Books\\BooksWeb\\wwwroot\\images\\product\\2129160f-1769-4806-aed7-58f2d8aa648c.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\2129160f-1769-4806-aed7-58f2d8aa648c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE7\\Books\\BooksWeb\\wwwroot\\images\\product\\3471e5af-0c17-4b77-a542-5ef4205e83c1.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\3471e5af-0c17-4b77-a542-5ef4205e83c1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE7\\Books\\BooksWeb\\wwwroot\\images\\product\\36a08589-68ef-46bd-8ac5-46ca0343158f.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\36a08589-68ef-46bd-8ac5-46ca0343158f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE7\\Books\\BooksWeb\\wwwroot\\images\\product\\51b4e510-2d37-4152-8c15-b898b1e708b9.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\51b4e510-2d37-4152-8c15-b898b1e708b9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE7\\Books\\BooksWeb\\wwwroot\\images\\product\\5a65573b-2b2c-40ad-8455-3bf04bdacb09.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\5a65573b-2b2c-40ad-8455-3bf04bdacb09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE7\\Books\\BooksWeb\\wwwroot\\images\\product\\8fdb62de-cc99-4424-8003-2c5f73e3f645.png",
       "PackagePath": "staticwebassets\\images\\product\\8fdb62de-cc99-4424-8003-2c5f73e3f645.png"
     },
     {
-      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE6\\Books\\BooksWeb\\wwwroot\\js\\product.js",
+      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE7\\Books\\BooksWeb\\wwwroot\\images\\product\\9f018e74-1a8a-42f2-a64a-865906b0de12.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\9f018e74-1a8a-42f2-a64a-865906b0de12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE7\\Books\\BooksWeb\\wwwroot\\images\\product\\b272f213-879a-4c56-80de-22042a2ed70d.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\b272f213-879a-4c56-80de-22042a2ed70d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE7\\Books\\BooksWeb\\wwwroot\\images\\product\\d9d02161-541b-4405-b006-4efda94d4687.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\d9d02161-541b-4405-b006-4efda94d4687.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE7\\Books\\BooksWeb\\wwwroot\\images\\product\\d9d0c482-488c-45c3-887f-11bc3052d7c5.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\d9d0c482-488c-45c3-887f-11bc3052d7c5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE7\\Books\\BooksWeb\\wwwroot\\images\\product\\e6dcab4a-52af-4d79-8991-9fe3443e3aaf.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\e6dcab4a-52af-4d79-8991-9fe3443e3aaf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE7\\Books\\BooksWeb\\wwwroot\\js\\product.js",
       "PackagePath": "staticwebassets\\js\\product.js"
     },
     {
-      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE6\\Books\\BooksWeb\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE7\\Books\\BooksWeb\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE6\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE7\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE6\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE7\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE6\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE7\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE6\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE7\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE6\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE7\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE6\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE7\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE6\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE7\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE6\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE7\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE6\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE7\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE6\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE7\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE6\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE7\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE6\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE7\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE6\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE7\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE6\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE7\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE6\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE7\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE6\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE7\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE6\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE7\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE6\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE7\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE6\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE7\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE6\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE7\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE6\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE7\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE6\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE7\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE6\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE7\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE6\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE7\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE6\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE7\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE6\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE7\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE6\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE7\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE6\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE7\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE6\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE7\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE6\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE7\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE6\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE7\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE6\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE7\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE6\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE7\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE6\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE7\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE6\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE7\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE6\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE7\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE6\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE7\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE6\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE7\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE6\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE7\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE6\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE7\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE6\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE7\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE6\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE7\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE6\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE7\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE6\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE7\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE6\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE7\\Books\\BooksWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE6\\Books\\BooksWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE7\\Books\\BooksWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE6\\Books\\BooksWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE7\\Books\\BooksWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE6\\Books\\BooksWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE7\\Books\\BooksWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE6\\Books\\BooksWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE7\\Books\\BooksWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE6\\Books\\BooksWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE7\\Books\\BooksWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE6\\Books\\BooksWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE7\\Books\\BooksWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE6\\Books\\BooksWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE7\\Books\\BooksWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE6\\Books\\BooksWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE7\\Books\\BooksWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE6\\Books\\BooksWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE7\\Books\\BooksWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE6\\Books\\BooksWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE7\\Books\\BooksWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE6\\Books\\BooksWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE7\\Books\\BooksWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE6\\Books\\BooksWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE7\\Books\\BooksWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

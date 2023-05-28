@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jdvonmQ4vAFxGqEoM9AGKp9KBXgkZLNtEWxp/50uKrzjNOlQpOm6FPUpafRWS6x5zf1CTu+l8pVUneLRhNJfMQ==",
+  "dgSpecHash": "+/L9D016lCptFfHEUVWsx4GbitKDu50b3GIMJpz0gPZr3v1IYBHvYMnRe10KpwxMUXxyQ9zqHee1LxXQRI8QmQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE8\\Books\\Books.Models\\Books.Models.csproj",
+  "projectFilePath": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE9\\Books\\Books.Models\\Books.Models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnet.mvc\\5.2.9\\microsoft.aspnet.mvc.5.2.9.nupkg.sha512",

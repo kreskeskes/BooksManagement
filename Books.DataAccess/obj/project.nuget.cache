@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9KaklL5ck7zSnluuGgGeAEnX3Bc3iw3H4EhRDcLGflTBGUF9W+27nbz5h72GnnMpwYP6eq8AUq53seIGNNF8kw==",
+  "dgSpecHash": "iHdqNFrNSuoWveaeTgWU2jeF5luOYbybkNq4v57XDg3UnZvUCEfZVyNPBvjl4Vvvf+2O4zTpq2eRginm4nZrWw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE8\\Books\\Books.DataAccess\\Books.DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE9\\Books\\Books.DataAccess\\Books.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

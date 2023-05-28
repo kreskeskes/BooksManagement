@@ -11050,11 +11050,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE8\\Books\\Books.Models\\Books.Models.csproj",
+      "projectUniqueName": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE9\\Books\\Books.Models\\Books.Models.csproj",
       "projectName": "Books.Models",
-      "projectPath": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE8\\Books\\Books.Models\\Books.Models.csproj",
+      "projectPath": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE9\\Books\\Books.Models\\Books.Models.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE8\\Books\\Books.Models\\obj\\",
+      "outputPath": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE9\\Books\\Books.Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

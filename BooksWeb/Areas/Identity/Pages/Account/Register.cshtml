@@ -37,29 +37,37 @@
                         <label class="ms-2 text-muted" asp-for="Input.Name">Full Name</label>
                         <span asp-validation-for="Input.Name" class="text-danger"></span>
                     </div>
-                       <div class="form-floating mb-3 col-md-6">
-                        <input asp-for="Input.City" class="form-control" aria-required="true" placeholder="City" />
-                        <label class="ms-2 text-muted" asp-for="Input.City">City</label>
-                        <span asp-validation-for="Input.City" class="text-danger"></span>
-                    </div>
-                         <div class="form-floating mb-3 col-md-6">
-                        <input asp-for="Input.StreetAddress" class="form-control" aria-required="true" placeholder="Street Address" />
-                        <label class="ms-2 text-muted" asp-for="Input.StreetAddress">Street Address</label>
-                        <span asp-validation-for="Input.StreetAddress" class="text-danger"></span>
-                    </div>
-                      <div class="form-floating mb-3 col-md-6">
-                        <input asp-for="Input.PostalCode" class="form-control" aria-required="true" placeholder="Postal Code" />
-                        <label class="ms-2 text-muted" asp-for="Input.PostalCode">Postal Code</label>
-                        <span asp-validation-for="Input.PostalCode" class="text-danger"></span>
-                    </div>
                     <div class="form-floating mb-3 col-md-6">
                         <input asp-for="Input.Phonenumber" type="tel" class="form-control" aria-required="true" placeholder="Phone number" />
                         <label class="ms-2 text-muted" asp-for="Input.Phonenumber">Phone number</label>
                         <span asp-validation-for="Input.Phonenumber" class="text-danger"></span>
                     </div>
+                       <div class="form-floating mb-3 col-md-4">
+                        <input asp-for="Input.City" class="form-control" aria-required="true" placeholder="City" />
+                        <label class="ms-2 text-muted" asp-for="Input.City">City</label>
+                        <span asp-validation-for="Input.City" class="text-danger"></span>
+                    </div>
+                         <div class="form-floating mb-3 col-md-4">
+                        <input asp-for="Input.StreetAddress" class="form-control" aria-required="true" placeholder="Street Address" />
+                        <label class="ms-2 text-muted" asp-for="Input.StreetAddress">Street Address</label>
+                        <span asp-validation-for="Input.StreetAddress" class="text-danger"></span>
+                    </div>
+                      <div class="form-floating mb-3 col-md-4">
+                        <input asp-for="Input.PostalCode" class="form-control" aria-required="true" placeholder="Postal Code" />
+                        <label class="ms-2 text-muted" asp-for="Input.PostalCode">Postal Code</label>
+                        <span asp-validation-for="Input.PostalCode" class="text-danger"></span>
+                    </div>
+                    
                     <div class="form-floating mb-3 col-md-6">
                         <select  asp-for="Input.Role" asp-items="@Model.Input.RoleList" class="form-select">
                             <option disabled selected>-Select Role-</option>
+                        </select>
+
+                    </div>
+
+                    <div class="form-floating mb-3 col-md-6">
+                        <select asp-for="Input.CompanyId" style="display:none" asp-items="@Model.Input.CompanyList" class="form-select">
+                            <option disabled selected>-Select Company-</option>
                         </select>
 
                     </div>
@@ -109,4 +117,22 @@
 
 @section Scripts {
     <partial name="_ValidationScriptsPartial" />
+	<script>
+        $(document).ready(function ()
+        {
+            $('#Input_Role').change(function()
+            {
+                var selection = $('#Input_Role Option:Selected').text();
+                if (selection == 'Company')
+                {
+                    $('#Input_CompanyId').show()
+                }
+                else
+                {
+                    $('#Input_CompanyId').hide()
+
+                }
+            })
+        })
+    </script>
 }

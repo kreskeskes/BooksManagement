@@ -63,6 +63,64 @@ namespace Books.DataAccess.Migrations
                         });
                 });
 
+            modelBuilder.Entity("Books.Models.Models.Company", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("City")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("PhoneNumber")
+                        .HasColumnType("int");
+
+                    b.Property<string>("PostalCode")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("StreetAddress")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Companies");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            City = "Chisinau",
+                            Name = "CompanieNr1",
+                            PhoneNumber = 69705018,
+                            PostalCode = "MD-2020",
+                            StreetAddress = "Str. A. Puskin 32"
+                        },
+                        new
+                        {
+                            Id = 2,
+                            City = "Balti",
+                            Name = "Best Co",
+                            PhoneNumber = 65785412,
+                            PostalCode = "MD-2920",
+                            StreetAddress = "Str. Stefan Cel Mare 3"
+                        },
+                        new
+                        {
+                            Id = 3,
+                            City = "Chisinau",
+                            Name = "Book Lovers",
+                            PhoneNumber = 22509905,
+                            PostalCode = "MD-2045",
+                            StreetAddress = "Str. Studentilor 9/7"
+                        });
+                });
+
             modelBuilder.Entity("Books.Models.Models.Product", b =>
                 {
                     b.Property<int>("Id")
@@ -412,6 +470,10 @@ namespace Books.DataAccess.Migrations
                     b.Property<string>("City")
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<int?>("CompanyId")
+                        .IsRequired()
+                        .HasColumnType("int");
+
                     b.Property<string>("Name")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
@@ -421,6 +483,8 @@ namespace Books.DataAccess.Migrations
 
                     b.Property<string>("StreetAddress")
                         .HasColumnType("nvarchar(max)");
+
+                    b.HasIndex("CompanyId");
 
                     b.HasDiscriminator().HasValue("ApplicationUser");
                 });
@@ -485,6 +549,17 @@ namespace Books.DataAccess.Migrations
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
+                });
+
+            modelBuilder.Entity("Books.Models.Models.ApplicationUser", b =>
+                {
+                    b.HasOne("Books.Models.Models.Company", "Company")
+                        .WithMany()
+                        .HasForeignKey("CompanyId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Company");
                 });
 #pragma warning restore 612, 618
         }

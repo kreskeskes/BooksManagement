@@ -15,6 +15,7 @@ namespace Books.DataAccess.Data
 		public DbSet<Category> Categories { get; set; }
 		public DbSet<Product> Products { get; set; }
 		public DbSet<ApplicationUser> ApplicationUsers { get; set; }
+		public DbSet<Company> Companies { get; set; }
 		protected override void OnModelCreating(ModelBuilder modelBuilder)
 		{
 			base.OnModelCreating(modelBuilder);
@@ -23,23 +24,53 @@ namespace Books.DataAccess.Data
 				new Category { Id = 2, Name = "SciFi", DisplayOrder = 2 },
 				new Category { Id = 3, Name = "History", DisplayOrder = 3 }
 				);
-			modelBuilder.Entity<Product>().HasData(
-				new Product
+			modelBuilder.Entity<Company>().HasData(
+				new Company
 				{
 					Id = 1,
-					Title = "To Kill a Mockingbird",
-					Author = "Harper Lee",
-					Description = "Praesent vitae sodales libero. Praesent molestie orci augue, vitae euismod velit sollicitudin ac. Praesent vestibulum facilisis nibh ut ultricies.\r\n\r\nNunc malesuada viverra ipsum sit amet tincidunt. ",
-					ISBN = "9780446310789",
-					ListPrice = 99,
-					Price = 90,
-					Price50 = 85,
-					Price100 = 80,
-					CategoryId = 1,
-					ImageUrl = ""
-
+					Name = "CompanieNr1",
+					StreetAddress = "Str. A. Puskin 32",
+					City = "Chisinau",
+					PostalCode = "MD-2020",
+					PhoneNumber = 069705018
 
 				},
+				new Company
+				{
+					Id = 2,
+					Name = "Best Co",
+					StreetAddress = "Str. Stefan Cel Mare 3",
+					City = "Balti",
+					PostalCode = "MD-2920",
+					PhoneNumber = 065785412
+				},
+				new Company
+				{
+					Id = 3,
+					Name = "Book Lovers",
+					StreetAddress = "Str. Studentilor 9/7",
+					City = "Chisinau",
+					PostalCode = "MD-2045",
+					PhoneNumber = 022509905
+				}
+				);
+			modelBuilder.Entity<Product>().HasData(
+new Product
+{
+	Id = 1,
+	Title = "To Kill a Mockingbird",
+	Author = "Harper Lee",
+	Description = "Praesent vitae sodales libero. Praesent molestie orci augue, vitae euismod velit sollicitudin ac. Praesent vestibulum facilisis nibh ut ultricies.\r\n\r\nNunc malesuada viverra ipsum sit amet tincidunt. ",
+	ISBN = "9780446310789",
+	ListPrice = 99,
+	Price = 90,
+	Price50 = 85,
+	Price100 = 80,
+	CategoryId = 1,
+	ImageUrl = ""
+
+
+},
 				new Product
 				{
 					Id = 2,

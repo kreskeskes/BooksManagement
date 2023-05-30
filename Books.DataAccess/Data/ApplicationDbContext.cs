@@ -16,6 +16,7 @@ namespace Books.DataAccess.Data
 		public DbSet<Product> Products { get; set; }
 		public DbSet<ApplicationUser> ApplicationUsers { get; set; }
 		public DbSet<Company> Companies { get; set; }
+		public DbSet<ShoppingCart> ShoppingCarts { get; set; }
 		protected override void OnModelCreating(ModelBuilder modelBuilder)
 		{
 			base.OnModelCreating(modelBuilder);
@@ -55,22 +56,23 @@ namespace Books.DataAccess.Data
 				}
 				);
 			modelBuilder.Entity<Product>().HasData(
-new Product
-{
-	Id = 1,
-	Title = "To Kill a Mockingbird",
-	Author = "Harper Lee",
-	Description = "Praesent vitae sodales libero. Praesent molestie orci augue, vitae euismod velit sollicitudin ac. Praesent vestibulum facilisis nibh ut ultricies.\r\n\r\nNunc malesuada viverra ipsum sit amet tincidunt. ",
-	ISBN = "9780446310789",
-	ListPrice = 99,
-	Price = 90,
-	Price50 = 85,
-	Price100 = 80,
-	CategoryId = 1,
-	ImageUrl = ""
+				new Product
+				{
+					Id = 1,
+					Title = "To Kill a Mockingbird",
+					Author = "Harper Lee",
+					Description = "Praesent vitae sodales libero. Praesent molestie orci augue, vitae euismod velit sollicitudin ac. Praesent vestibulum facilisis nibh ut ultricies.\r\n\r\nNunc malesuada viverra ipsum sit amet tincidunt. ",
+					ISBN = "9780446310789",
+					ListPrice = 99,
+					Price = 90,
+					Price50 = 85,
+					Price100 = 80,
+					CategoryId = 1,
+					ImageUrl = ""
 
 
-},
+				},
+
 				new Product
 				{
 					Id = 2,

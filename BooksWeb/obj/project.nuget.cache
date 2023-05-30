@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HrVfDyUU7WcdFhLp6fU3xdoqG9aBijInFocBZ3wqwCrEQ8wlhY2OFWN0ho0GLvYq4p9HnJPVlndBYYSVsuS2hQ==",
+  "dgSpecHash": "s/TXSBD7AJ1/7za5kyy6pkEc3SuQ9lsO9XZ9Ui2S5elk4upadhEonmJUk4YmtzroUS4F4tdu5M1QKO9QvCOsUg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE10\\Books\\BooksWeb\\BooksWeb.csproj",
+  "projectFilePath": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteSTAGE11\\Books\\BooksWeb\\BooksWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

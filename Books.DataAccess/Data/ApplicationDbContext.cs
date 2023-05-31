@@ -72,7 +72,6 @@ namespace Books.DataAccess.Data
 
 
 				},
-
 				new Product
 				{
 					Id = 2,

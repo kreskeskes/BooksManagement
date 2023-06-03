@@ -12393,11 +12393,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteStage12\\Books\\BooksWeb\\BooksWeb.csproj",
+      "projectUniqueName": "C:\\Users\\admin\\source\\BooksManagementWebsite\\Books\\BooksWeb\\BooksWeb.csproj",
       "projectName": "BooksWeb",
-      "projectPath": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteStage12\\Books\\BooksWeb\\BooksWeb.csproj",
+      "projectPath": "C:\\Users\\admin\\source\\BooksManagementWebsite\\Books\\BooksWeb\\BooksWeb.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteStage12\\Books\\BooksWeb\\obj\\",
+      "outputPath": "C:\\Users\\admin\\source\\BooksManagementWebsite\\Books\\BooksWeb\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -12418,14 +12418,14 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteStage12\\Books\\Books.DataAccess\\Books.DataAccess.csproj": {
-              "projectPath": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteStage12\\Books\\Books.DataAccess\\Books.DataAccess.csproj"
+            "C:\\Users\\admin\\source\\BooksManagementWebsite\\Books\\Books.DataAccess\\Books.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\admin\\source\\BooksManagementWebsite\\Books\\Books.DataAccess\\Books.DataAccess.csproj"
             },
-            "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteStage12\\Books\\Books.Models\\Books.Models.csproj": {
-              "projectPath": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteStage12\\Books\\Books.Models\\Books.Models.csproj"
+            "C:\\Users\\admin\\source\\BooksManagementWebsite\\Books\\Books.Models\\Books.Models.csproj": {
+              "projectPath": "C:\\Users\\admin\\source\\BooksManagementWebsite\\Books\\Books.Models\\Books.Models.csproj"
             },
-            "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteStage12\\Books\\Books.Utilities\\Books.Utilities.csproj": {
-              "projectPath": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteStage12\\Books\\Books.Utilities\\Books.Utilities.csproj"
+            "C:\\Users\\admin\\source\\BooksManagementWebsite\\Books\\Books.Utilities\\Books.Utilities.csproj": {
+              "projectPath": "C:\\Users\\admin\\source\\BooksManagementWebsite\\Books\\Books.Utilities\\Books.Utilities.csproj"
             }
           }
         }

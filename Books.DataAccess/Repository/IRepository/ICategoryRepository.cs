@@ -1,9 +1,9 @@
-﻿using Books.Models.Models;
+﻿using Books.Models;
 
 namespace Books.DataAccess.Repository.IRepository
 {
-    public interface IShoppingCartRepository : IRepository<ShoppingCart>
-    {
-        void Update(ShoppingCart obj);
-    }
+	public interface ICategoryRepository : IRepository<Category>
+	{
+		void Update(Category obj);
+	}
 }

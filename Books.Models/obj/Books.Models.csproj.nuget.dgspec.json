@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteStage12\\Books\\Books.Models\\Books.Models.csproj": {}
+    "C:\\Users\\admin\\source\\BooksManagementWebsite\\Books\\Books.Models\\Books.Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteStage12\\Books\\Books.Models\\Books.Models.csproj": {
+    "C:\\Users\\admin\\source\\BooksManagementWebsite\\Books\\Books.Models\\Books.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteStage12\\Books\\Books.Models\\Books.Models.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\source\\BooksManagementWebsite\\Books\\Books.Models\\Books.Models.csproj",
         "projectName": "Books.Models",
-        "projectPath": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteStage12\\Books\\Books.Models\\Books.Models.csproj",
+        "projectPath": "C:\\Users\\admin\\source\\BooksManagementWebsite\\Books\\Books.Models\\Books.Models.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteStage12\\Books\\Books.Models\\obj\\",
+        "outputPath": "C:\\Users\\admin\\source\\BooksManagementWebsite\\Books\\Books.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

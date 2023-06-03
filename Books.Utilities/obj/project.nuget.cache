@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TeSnkwdTYvWuDJ5hsiMZs8u1OHRs94UXTW2xPVa8P6xUUgM5FwEH5M3JQ/tOvJXB3w4n0R72ySQaDJnYgDpeTA==",
+  "dgSpecHash": "82U1VAB/3MujzsdiithYbq/HlbChYQb6MabYAq48oOPbmB7KSfOVLuq+/goVXTNzxHJNWiNHGoJUfSjNwfvRjg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\admin\\Desktop\\web_archives\\BooksManagementWebsiteStage12\\Books\\Books.Utilities\\Books.Utilities.csproj",
+  "projectFilePath": "C:\\Users\\admin\\source\\BooksManagementWebsite\\Books\\Books.Utilities\\Books.Utilities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\7.0.5\\microsoft.aspnetcore.cryptography.internal.7.0.5.nupkg.sha512",

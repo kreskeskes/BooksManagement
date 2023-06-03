@@ -201,6 +201,9 @@ namespace Books.DataAccess.Migrations
                     b.Property<string>("PostalCode")
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<string>("SessionId")
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<DateTime>("ShippingDate")
                         .HasColumnType("datetime2");
 

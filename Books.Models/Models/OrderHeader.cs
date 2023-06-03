@@ -25,8 +25,7 @@ namespace Books.Models.Models
 		public DateTime PaymentDueDate { get; set; }
 
 		public string? PaymentIntentID { get; set; }
-
-
+		public string? SessionId { get; set; }
 		public string Name { get; set; }
 		public string? StreetAddress { get; set; }
 		public string? City { get; set; }

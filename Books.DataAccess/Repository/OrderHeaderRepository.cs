@@ -41,7 +41,7 @@ namespace Books.DataAccess.Repository
             }
             if (!string.IsNullOrEmpty(paymentIntentId))
             {
-                orderFromDb.PaymentIntentID = paymentIntentId;
+                orderFromDb.PaymentIntentId = paymentIntentId;
                 orderFromDb.PaymentDate = DateTime.Now;
             }
         }

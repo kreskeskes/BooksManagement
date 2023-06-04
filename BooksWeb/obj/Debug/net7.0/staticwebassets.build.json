@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "mPFkgHk8YmsuFd3VLEY7AMFrhljUih5IFT2OG9SNlVA=",
+  "Hash": "P4aiVKP3k3u2uEBlMUYWBPlIjSjbvUDsLrwPXn5FZfo=",
   "Source": "BooksWeb",
   "BasePath": "_content/BooksWeb",
   "Mode": "Default",
@@ -1324,6 +1324,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\company.js"
+    },
+    {
+      "Identity": "C:\\Users\\admin\\source\\BooksManagementWebsite\\Books\\BooksWeb\\wwwroot\\js\\order.js",
+      "SourceId": "BooksWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\admin\\source\\BooksManagementWebsite\\Books\\BooksWeb\\wwwroot\\",
+      "BasePath": "_content/BooksWeb",
+      "RelativePath": "js/order.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\order.js"
     },
     {
       "Identity": "C:\\Users\\admin\\source\\BooksManagementWebsite\\Books\\BooksWeb\\wwwroot\\js\\product.js",

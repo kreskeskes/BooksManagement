@@ -299,3 +299,4 @@ C:\Users\admin\source\BooksManagementWebsite\Books\BooksWeb\obj\Debug\net7.0\Boo
 C:\Users\admin\source\BooksManagementWebsite\Books\BooksWeb\obj\Debug\net7.0\BooksWeb.genruntimeconfig.cache
 C:\Users\admin\source\BooksManagementWebsite\Books\BooksWeb\obj\Debug\net7.0\ref\BooksWeb.dll
 C:\Users\admin\source\BooksManagementWebsite\Books\BooksWeb\bin\Debug\net7.0\Stripe.net.dll
+C:\Users\admin\source\BooksManagementWebsite\Books\BooksWeb\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.Facebook.dll

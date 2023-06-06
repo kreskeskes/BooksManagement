@@ -167,6 +167,7 @@ namespace Books.DataAccess.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("City")
+                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Name")
@@ -188,7 +189,7 @@ namespace Books.DataAccess.Migrations
                     b.Property<DateTime>("PaymentDueDate")
                         .HasColumnType("datetime2");
 
-                    b.Property<string>("PaymentIntentID")
+                    b.Property<string>("PaymentIntentId")
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("PaymentStatus")
@@ -199,6 +200,7 @@ namespace Books.DataAccess.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("PostalCode")
+                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("SessionId")
@@ -208,6 +210,7 @@ namespace Books.DataAccess.Migrations
                         .HasColumnType("datetime2");
 
                     b.Property<string>("StreetAddress")
+                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("TrackingNumber")

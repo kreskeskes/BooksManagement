@@ -33,6 +33,38 @@
       "PackagePath": "staticwebassets\\images\\product\\96210715-4ec2-4eea-985b-665157618dce.jpg"
     },
     {
+      "Id": "C:\\Users\\admin\\source\\BooksManagementWebsite\\Books\\BooksWeb\\wwwroot\\images\\products\\product-1\\56be29a5-7eda-436f-a809-7425cdaa92b0.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-1\\56be29a5-7eda-436f-a809-7425cdaa92b0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\BooksManagementWebsite\\Books\\BooksWeb\\wwwroot\\images\\products\\product-1\\bd9c5b7a-1c96-4b6f-9df0-a0a2cbd3457b.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-1\\bd9c5b7a-1c96-4b6f-9df0-a0a2cbd3457b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\BooksManagementWebsite\\Books\\BooksWeb\\wwwroot\\images\\products\\product-2\\5023433c-b717-42a7-91cc-31328975c024.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-2\\5023433c-b717-42a7-91cc-31328975c024.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\BooksManagementWebsite\\Books\\BooksWeb\\wwwroot\\images\\products\\product-2\\d3c7e6a4-f656-42b5-922d-4536134803e6.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-2\\d3c7e6a4-f656-42b5-922d-4536134803e6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\BooksManagementWebsite\\Books\\BooksWeb\\wwwroot\\images\\products\\product-3\\82804537-2aa9-4874-aac9-502d6464782c.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-3\\82804537-2aa9-4874-aac9-502d6464782c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\BooksManagementWebsite\\Books\\BooksWeb\\wwwroot\\images\\products\\product-4\\b58fed0e-8936-4f83-b345-7f31b858c5c8.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-4\\b58fed0e-8936-4f83-b345-7f31b858c5c8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\BooksManagementWebsite\\Books\\BooksWeb\\wwwroot\\images\\products\\product-5\\6f0c8095-a830-4508-8c81-3b8935bc03e9.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-5\\6f0c8095-a830-4508-8c81-3b8935bc03e9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\BooksManagementWebsite\\Books\\BooksWeb\\wwwroot\\images\\products\\product-5\\d420fc83-2ece-454b-89c4-228cc2161555.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-5\\d420fc83-2ece-454b-89c4-228cc2161555.jpg"
+    },
+    {
       "Id": "C:\\Users\\admin\\source\\BooksManagementWebsite\\Books\\BooksWeb\\wwwroot\\js\\appUser.js",
       "PackagePath": "staticwebassets\\js\\appUser.js"
     },

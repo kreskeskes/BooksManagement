@@ -28,10 +28,11 @@ namespace Books.DataAccess.Repository
 				objFromDb.Price50 = obj.Price50;
 				objFromDb.CategoryId = obj.CategoryId;
 				objFromDb.Price = obj.Price;
-				if (obj.ImageUrl != null)
-				{
-					objFromDb.ImageUrl = obj.ImageUrl;
-				}
+				objFromDb.ProductImages = obj.ProductImages;
+				//if (obj.ImageUrl != null)
+				//{
+				//	objFromDb.ImageUrl = obj.ImageUrl;
+				//}
 
 
 

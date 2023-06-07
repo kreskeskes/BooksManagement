@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "xZmzj3267EYOKJGf85pmEsY7/AZZN9YetH8K6Zp17oo=",
+  "Hash": "DE7VL25+05ZA8i62EVJ4CDmy3rxS4744JkWBOMx7CrI=",
   "Source": "BooksWeb",
   "BasePath": "_content/BooksWeb",
   "Mode": "Default",
@@ -1105,12 +1105,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\admin\\source\\BooksManagementWebsite\\Books\\BooksWeb\\wwwroot\\images\\product\\1f006c51-18c4-4bbb-8252-cce8f2a70f6e.jpg",
+      "Identity": "C:\\Users\\admin\\source\\BooksManagementWebsite\\Books\\BooksWeb\\wwwroot\\images\\product\\0cc566f1-8fa6-4837-9057-7523707adfc9.jpg",
       "SourceId": "BooksWeb",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\admin\\source\\BooksManagementWebsite\\Books\\BooksWeb\\wwwroot\\",
       "BasePath": "_content/BooksWeb",
-      "RelativePath": "images/product/1f006c51-18c4-4bbb-8252-cce8f2a70f6e.jpg",
+      "RelativePath": "images/product/0cc566f1-8fa6-4837-9057-7523707adfc9.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1119,15 +1119,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\product\\1f006c51-18c4-4bbb-8252-cce8f2a70f6e.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\product\\0cc566f1-8fa6-4837-9057-7523707adfc9.jpg"
     },
     {
-      "Identity": "C:\\Users\\admin\\source\\BooksManagementWebsite\\Books\\BooksWeb\\wwwroot\\images\\product\\63aa6ee7-84ce-45ee-8ed3-4b3462c5b999.jpg",
+      "Identity": "C:\\Users\\admin\\source\\BooksManagementWebsite\\Books\\BooksWeb\\wwwroot\\images\\product\\44e07f43-c87f-4dae-b7cd-6b677a202435.jpg",
       "SourceId": "BooksWeb",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\admin\\source\\BooksManagementWebsite\\Books\\BooksWeb\\wwwroot\\",
       "BasePath": "_content/BooksWeb",
-      "RelativePath": "images/product/63aa6ee7-84ce-45ee-8ed3-4b3462c5b999.jpg",
+      "RelativePath": "images/product/44e07f43-c87f-4dae-b7cd-6b677a202435.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1136,15 +1136,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\product\\63aa6ee7-84ce-45ee-8ed3-4b3462c5b999.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\product\\44e07f43-c87f-4dae-b7cd-6b677a202435.jpg"
     },
     {
-      "Identity": "C:\\Users\\admin\\source\\BooksManagementWebsite\\Books\\BooksWeb\\wwwroot\\images\\product\\6a56726d-7640-422d-89a8-94636c181246.jpg",
+      "Identity": "C:\\Users\\admin\\source\\BooksManagementWebsite\\Books\\BooksWeb\\wwwroot\\images\\product\\4d0004eb-094b-4794-bd02-74c79e943cda.jpg",
       "SourceId": "BooksWeb",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\admin\\source\\BooksManagementWebsite\\Books\\BooksWeb\\wwwroot\\",
       "BasePath": "_content/BooksWeb",
-      "RelativePath": "images/product/6a56726d-7640-422d-89a8-94636c181246.jpg",
+      "RelativePath": "images/product/4d0004eb-094b-4794-bd02-74c79e943cda.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1153,15 +1153,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\product\\6a56726d-7640-422d-89a8-94636c181246.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\product\\4d0004eb-094b-4794-bd02-74c79e943cda.jpg"
     },
     {
-      "Identity": "C:\\Users\\admin\\source\\BooksManagementWebsite\\Books\\BooksWeb\\wwwroot\\images\\product\\9ee02af1-f267-4e12-be19-cf9f70fbaff7.jpg",
+      "Identity": "C:\\Users\\admin\\source\\BooksManagementWebsite\\Books\\BooksWeb\\wwwroot\\images\\product\\50727978-618e-4988-9d34-213f12f3d871.jpg",
       "SourceId": "BooksWeb",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\admin\\source\\BooksManagementWebsite\\Books\\BooksWeb\\wwwroot\\",
       "BasePath": "_content/BooksWeb",
-      "RelativePath": "images/product/9ee02af1-f267-4e12-be19-cf9f70fbaff7.jpg",
+      "RelativePath": "images/product/50727978-618e-4988-9d34-213f12f3d871.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1170,15 +1170,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\product\\9ee02af1-f267-4e12-be19-cf9f70fbaff7.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\product\\50727978-618e-4988-9d34-213f12f3d871.jpg"
     },
     {
-      "Identity": "C:\\Users\\admin\\source\\BooksManagementWebsite\\Books\\BooksWeb\\wwwroot\\images\\product\\e2dc98d3-8e99-44bd-8038-d219d204a14c.jpg",
+      "Identity": "C:\\Users\\admin\\source\\BooksManagementWebsite\\Books\\BooksWeb\\wwwroot\\images\\product\\96210715-4ec2-4eea-985b-665157618dce.jpg",
       "SourceId": "BooksWeb",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\admin\\source\\BooksManagementWebsite\\Books\\BooksWeb\\wwwroot\\",
       "BasePath": "_content/BooksWeb",
-      "RelativePath": "images/product/e2dc98d3-8e99-44bd-8038-d219d204a14c.jpg",
+      "RelativePath": "images/product/96210715-4ec2-4eea-985b-665157618dce.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1187,7 +1187,24 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\product\\e2dc98d3-8e99-44bd-8038-d219d204a14c.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\product\\96210715-4ec2-4eea-985b-665157618dce.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\admin\\source\\BooksManagementWebsite\\Books\\BooksWeb\\wwwroot\\js\\appUser.js",
+      "SourceId": "BooksWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\admin\\source\\BooksManagementWebsite\\Books\\BooksWeb\\wwwroot\\",
+      "BasePath": "_content/BooksWeb",
+      "RelativePath": "js/appUser.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\appUser.js"
     },
     {
       "Identity": "C:\\Users\\admin\\source\\BooksManagementWebsite\\Books\\BooksWeb\\wwwroot\\js\\company.js",
